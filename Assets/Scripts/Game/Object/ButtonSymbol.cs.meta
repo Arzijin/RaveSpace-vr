@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: 5518331f6ce624f4390e2f744e0e2332
+timeCreated: 1517068628
+licenseType: Free
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - _outlineMaterial: {fileID: 2100000, guid: 39ea99c0baab9d64e8583e601c6e81ea, type: 2}
+  - _defaultMaterial: {instanceID: 0}
+  - _clickAudio: {fileID: 8300000, guid: e6290499c1d44244fb0377151ceee50b, type: 3}
+  - _symbol: {instanceID: 0}
+  - _symbolMeshFilter: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
