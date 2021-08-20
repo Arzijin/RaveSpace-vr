@@ -24,6 +24,6 @@ Connect your Oculus device and launch Rave Space VR.exe
 
 ### Credits: 
 Julien Chambriard // 2D/3D Artist @Ju_Chambriard <br>
-Loïs Aubrée // Pogramming @_LoisAubree
+Loïs Aubrée // Programming @_LoisAubree
 
 <a href="https://globalgamejam.org/2018/games/rave-space-vr">Download it on globalgamejam.org</a>
